@@ -8,7 +8,7 @@ description: >-
 
 ## What is MyBit
 
-MyBit AG is a blockchain company working in the redistribution of wealth by developing the MyBit Network, an Ethereum-based platform that powers products like MyBit Go, a decentralised application focused on crowdfunding investment for the Internet of Things \(IoT\). The MyBit Go platform allows asset owners to post-crowdfunding projects that provide attractive ROIs to investors, while investors can bet on specific projects based on their interests and the asset's owners KPI's. MyBit Go is only an example of a few use cases being worked on through the MyBit ecosystem.
+MyBit is a blockchain company working in the redistribution of wealth by developing the MyBit Network, an Ethereum-based platform that powers products like MyBit Go, a decentralised application focused on crowdfunding investment for the Internet of Things \(IoT\). The MyBit Go platform allows asset owners to post-crowdfunding projects that provide attractive ROIs to investors, while investors can bet on specific projects based on their interests and the asset's owners KPI's. MyBit Go is only an example of a few use cases being worked on through the MyBit ecosystem.
 
 ## What is the MyBit ecosystem?
 
